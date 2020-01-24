@@ -407,7 +407,7 @@ char* test_gc_strdup()
 }
 
 /*
- * Test runner
+  Test runner
  */
 
 int tests_run = 0;
